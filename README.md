@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tigerparit
 - 👀 I’m interested in Data Analytics and Programming
-- 🌱 I’m currently learning more about programming as a hobby
+- 🌱 Coding is love
 
 <!---
 tigerparit/tigerparit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
